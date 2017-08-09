@@ -1,0 +1,872 @@
+[
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205584000,
+            "changeTime": 1502205584000,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205584000,
+            "changeTime": 1502205584000,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "c14e7918baf1de665dadfa0f4c0f3340037176c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1502204961000,
+            "changeTime": 1502204961000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 816,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "c5c110d86ff739664cd56f8bde04243b4145bdb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutService.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 94,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "0e334e17edf3decaa69ffd44ba43aea84ecf60a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMock.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMock.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 80,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "54733773bfafe72d50c91c59d1de1d9e00b736bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMock.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMock.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMockFailure.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMockFailure.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "95d1c7e3b68b54104c081c6010e525dd2ef9baa3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMockFailure.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceMockFailure.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 89,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "83b1de4d103c0e8c15d930c95d8d786dea8b4c3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/BillingCalloutServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/InstallationTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/InstallationTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1133,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "49dc1f846141e647086a127edb767f9ddaea94c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/InstallationTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutService.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 162,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "b19c73588ac80ca6f5046d22667fb0cfcf71be19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMock.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMock.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 80,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "2da10eb3cf09f1982f4d56bb809f23d3e8ccbd47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMock.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMock.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMockFailure.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMockFailure.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "e085ab60e14968859d5d7c81c6369c692424c115",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMockFailure.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceMockFailure.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 89,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "e90c74af30e280ca64b67191f5d364444138ad51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectCalloutServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTService.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "7d89b96d4fa8d0392eb22422e882473f20398667",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTServiceTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTServiceTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 91,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "43c1b8fab5aa0388611222b95adb000f4a5de1ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTServiceTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/classes/ProjectRESTServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "3c38e34a3880c0574567f497dd1c81690f7d9305",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2874,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "add02f11932d1ca585396e2550bb008d500803f1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "4a48b3f8f689a4bb7365b35168045baf533ef931",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "fc2ddd978f0ce1d30537185d0d61dac35e3b2eb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2264,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "f65234240a0ddb0e4cad003c3602ad0c5837d59a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "cfda8ea4b5035f37c67294d90aa5bf14612886d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Billable_Amount__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Billable_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "7e0d880c8b5279ae49610f7455bc59619fceb592",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/End_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Opportunity__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Opportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 607,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "6f78160dda4ebdd5b3c7d83af59050ec9a518160",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/ProjectRef__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/ProjectRef__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "2b460ad48b68bb447bd251b2c79ffd39083c1491",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 971,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "225c0318a4626f43801a8ef48daea79728683670",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/validationRules",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "2784b7cb2a1c3b0c892085b3d0287d4267bfbe77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/validationRules/Start_Must_Be_Before_End.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/Project__c/validationRules/Start_Must_Be_Before_End.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "bacf20003ba92abac4a8ca8b3e91a38de4538819",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ebdc7f75cd27f9c78451651ab7f8d4dc5ac3aea4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/ServiceCredentials__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/ServiceCredentials__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "fc6a309969c1a942e02a1b8950ef248d6aacb990",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "65d50f3c55e1557994cc97224164d5d037b45e85",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields/Password__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields/Password__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 425,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "8e2137ec2f33659aa8f6e9b451b4c484249003f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields/Username__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceCredentials__c/fields/Username__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 421,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "ac19db7b8d7e3073d1a9d91cfdacae25e9e17628",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "9efc2e398d44640a1f2a5b5aebcb6ad9b7c71864",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/ServiceTokens__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/ServiceTokens__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 346,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "b6439e90c229aa925036cdce9b8c0b4b717021b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "92db4a5dd7db54ab2c52c7384b686b8cddc29791",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/fields/Token__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/objects/ServiceTokens__c/fields/Token__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 425,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "c88910787d7cb5a6ae032b84c99f40bda4a4eaea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "0eda2ebe2a62d0e10d0206380e8d2314ca18b852",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/tabs/Project__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/tabs/Project__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "33d296690a642082e57b8b9dbd236b3aece5a091",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "cb4fdbc3daccabbcf2242a03ef3c50739d3ac0a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers/ProjectTrigger.trigger",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers/ProjectTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 105,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "d6fe6fa2ad5f795b47405544afe93ae914d43436",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers/ProjectTrigger.trigger-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge/force-app/main/default/triggers/ProjectTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1502205704000,
+            "changeTime": 1502205704000,
+            "contentHash": "167b24781914e472df2fef9a9d1580d13f694f5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jcarrion/Documents/02.Desarrollo/12.SuperbageIntegration/IntegSuperbadge",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1502265142000,
+            "changeTime": 1502265142000,
+            "contentHash": "819a1ff573d051fa04cda026eb15615f339930f3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
